@@ -1,3 +1,7 @@
+# Project specific
+00._Dev_Notes/
+.vscode/
+
 # Logs
 logs
 *.log

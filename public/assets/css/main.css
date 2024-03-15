@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Fragment Mono';
+  src: url('/public/assets/fonts/FragmentMono-Regular.ttf') format('woff2'),
+       url('/public/assets/fonts/FragmentMono-Italic.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+  font-family: 'Fragment Mono', monospace;
+}
